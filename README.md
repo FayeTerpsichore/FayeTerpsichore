@@ -6,4 +6,4 @@ Aliases include Friday Quimby and Flann inghen Uí Cobthaig. I speak English and
 ## Français
 Bonjour à tous! Je m'appelle Faye Terpsichore (elle/iel)!
 
-Connue sous les noms "Friday Quimby" et "Flann inghen Uí Cobthaig". Je parle l'anglais et le français (mais l'anglais beacoup plus fluidement), et j'adore travailler avec la robotique, la théorie du contrôle, SLAM, la science des données. et beacoup de topiques en IA/AA. Je suis en train de apprendre l'apprentissage par renforcement et la théorie de la robotique mobile, et j'espére que je recevrai bientôt une poste de recherche!
+Connue sous les noms "Friday Quimby" et "Flann inghen Uí Cobthaig". Je parle l'anglais et le français (mais l'anglais beacoup plus fluidement), et j'adore travailler avec la robotique, la théorie du contrôle, SLAM, la science des données. et beacoup de topiques en IA/AA. Je suis en train d'apprendre l'apprentissage par renforcement et la théorie de la robotique mobile, et j'espére que je recevrai bientôt une poste de recherche!
